@@ -1,8 +1,33 @@
-# React + Vite
+![screen-shot](screen-shot.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
 
-Currently, two official plugins are available:
+- [General info](#general-info)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Demo](#demo)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## General info
+
+Sky Island 3D model.
+
+## Technologies
+
+Project is created with:
+
+- react-three
+
+## Setup
+
+To run this project locally:
+
+```
+$ npm install
+$ npm run dev
+```
+
+Open http://localhost:5173/ to view client in your browser.
+
+## Demo
+
+Vist [SkyIsland](https://sky-island.vercel.app/)
